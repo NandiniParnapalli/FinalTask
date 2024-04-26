@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.kog.emp"},{"l":"com.kog.emp.config"},{"l":"com.kog.emp.controller"},{"l":"com.kog.emp.dto"},{"l":"com.kog.emp.entity"},{"l":"com.kog.emp.exception"},{"l":"com.kog.emp.handler"},{"l":"com.kog.emp.repository"},{"l":"com.kog.emp.service"}];updateSearchResults();
